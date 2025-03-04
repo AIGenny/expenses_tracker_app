@@ -76,7 +76,7 @@ You will be notified of any significant changes either through an **in-app notif
 If you have any questions or concerns about this Privacy Policy or your data, please contact me at:
 
 **Prathmesh Saraf**  
-Email: [prathmesh@example.com](mailto:prathmesh@example.com)
+Email: [prathmesh@example.com](mailto:prathameshsaraf2002@gmail.com.com)
 
 ---
 
