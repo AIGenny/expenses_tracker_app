@@ -52,7 +52,7 @@ The data we collect includes:
 ## 5. Account Deletion
 
 You have the **right to delete your account and all associated data** at any time.  
-To request account deletion, please fill out the **[Account Deletion Form](https://example.com/account-deletion-form)**.  
+To request account deletion, please fill out the **[Account Deletion Form](https://docs.google.com/forms/d/e/1FAIpQLSd6Pmgxz7evk-ZFOLcwGsHNB2vPkJpn8rW93a5NICUAjUv2rA/viewform?usp=header)**.  
 Once your request is processed, all your data will be permanently deleted from our servers.
 
 ---
@@ -76,7 +76,7 @@ You will be notified of any significant changes either through an **in-app notif
 If you have any questions or concerns about this Privacy Policy or your data, please contact me at:
 
 **Prathmesh Saraf**  
-Email: [prathmesh@example.com](mailto:prathameshsaraf2002@gmail.com.com)
+Email: [prathameshsaraf2002@gmail.com](mailto:prathameshsaraf2002@gmail.com)
 
 ---
 
